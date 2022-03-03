@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MTCG_SWEN1/1.0.0": {
+        "runtime": {
+          "MTCG_SWEN1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTCG_SWEN1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
